@@ -1,0 +1,11 @@
+C:\Users\Petreković\Downloads\skola\LV1\bin\Debug\netcoreapp3.1\LV1.exe
+C:\Users\Petreković\Downloads\skola\LV1\bin\Debug\netcoreapp3.1\LV1.deps.json
+C:\Users\Petreković\Downloads\skola\LV1\bin\Debug\netcoreapp3.1\LV1.runtimeconfig.json
+C:\Users\Petreković\Downloads\skola\LV1\bin\Debug\netcoreapp3.1\LV1.runtimeconfig.dev.json
+C:\Users\Petreković\Downloads\skola\LV1\bin\Debug\netcoreapp3.1\LV1.dll
+C:\Users\Petreković\Downloads\skola\LV1\bin\Debug\netcoreapp3.1\LV1.pdb
+C:\Users\Petreković\Downloads\skola\LV1\obj\Debug\netcoreapp3.1\LV1.csprojAssemblyReference.cache
+C:\Users\Petreković\Downloads\skola\LV1\obj\Debug\netcoreapp3.1\LV1.AssemblyInfoInputs.cache
+C:\Users\Petreković\Downloads\skola\LV1\obj\Debug\netcoreapp3.1\LV1.AssemblyInfo.cs
+C:\Users\Petreković\Downloads\skola\LV1\obj\Debug\netcoreapp3.1\LV1.dll
+C:\Users\Petreković\Downloads\skola\LV1\obj\Debug\netcoreapp3.1\LV1.pdb
