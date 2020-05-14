@@ -1,0 +1,6 @@
+C:\Users\Petreković\Downloads\skola\visual studio\LV6\LV6\bin\Debug\LV6.exe.config
+C:\Users\Petreković\Downloads\skola\visual studio\LV6\LV6\bin\Debug\LV6.exe
+C:\Users\Petreković\Downloads\skola\visual studio\LV6\LV6\bin\Debug\LV6.pdb
+C:\Users\Petreković\Downloads\skola\visual studio\LV6\LV6\obj\Debug\LV6.csprojAssemblyReference.cache
+C:\Users\Petreković\Downloads\skola\visual studio\LV6\LV6\obj\Debug\LV6.exe
+C:\Users\Petreković\Downloads\skola\visual studio\LV6\LV6\obj\Debug\LV6.pdb
