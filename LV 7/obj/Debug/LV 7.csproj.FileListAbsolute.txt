@@ -1,0 +1,6 @@
+C:\Users\Petreković\Downloads\skola\visual studio\LV 7\bin\Debug\LV 7.exe.config
+C:\Users\Petreković\Downloads\skola\visual studio\LV 7\bin\Debug\LV 7.exe
+C:\Users\Petreković\Downloads\skola\visual studio\LV 7\bin\Debug\LV 7.pdb
+C:\Users\Petreković\Downloads\skola\visual studio\LV 7\obj\Debug\LV 7.csprojAssemblyReference.cache
+C:\Users\Petreković\Downloads\skola\visual studio\LV 7\obj\Debug\LV 7.exe
+C:\Users\Petreković\Downloads\skola\visual studio\LV 7\obj\Debug\LV 7.pdb
